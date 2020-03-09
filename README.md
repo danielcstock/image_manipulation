@@ -9,5 +9,7 @@ Implementations of image manipulation in C#. This snippet covers converting imag
 | CompressToSize | Recursive function to compress an image to an approximate size.| byte[] image, ImageFormat format, long maxSize, long compressRate | byte[] |
 
 ## Converting: Converter.cs
+Available soon.
 
 ## Resizing: Resizer.cs
+Available soon.
