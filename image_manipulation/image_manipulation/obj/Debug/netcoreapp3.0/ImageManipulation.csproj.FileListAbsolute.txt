@@ -1,0 +1,17 @@
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\ImageManipulation.exe
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\obj\Debug\netcoreapp3.0\ImageManipulation.AssemblyInfoInputs.cache
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\obj\Debug\netcoreapp3.0\ImageManipulation.AssemblyInfo.cs
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\ImageManipulation.deps.json
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\ImageManipulation.runtimeconfig.json
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\ImageManipulation.runtimeconfig.dev.json
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\ImageManipulation.dll
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\ImageManipulation.pdb
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\obj\Debug\netcoreapp3.0\ImageManipulation.csproj.CopyComplete
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\obj\Debug\netcoreapp3.0\ImageManipulation.dll
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\obj\Debug\netcoreapp3.0\ImageManipulation.pdb
+D:\Repos\image_manipulation\image_manipulation\image_manipulation\obj\Debug\netcoreapp3.0\ImageManipulation.csprojAssemblyReference.cache
